@@ -1,0 +1,4 @@
+250;Fabian Chacon;Carrera 7 no 13;3112122456;0
+251;Pedrito Perez;Calle 8 no 16;3245125684;0
+252;Andres Balaguer;carrera 6 no 13;3541254565;0
+253;Juan Torres;calle 15;3182375344;0

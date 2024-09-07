@@ -1,0 +1,11 @@
+S A M I
+
+2023-06-13 _  _  _  _  _  _  _  _  _  _  _  _ N°4
+
+ _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 
+
+Producto _ _ _ Cantidad _ _ _ V.U. _ _ _ Valor
+
+Detergente_____2________2000____4000
+
+Pago:Efectivo _  _  _  _  _  _  _  _ Total:$4000.0

@@ -1,0 +1,6 @@
+1;Doritos;gramos;5000;16;3200
+2;Choclitos;gramos;4500;46;3500
+3;De Todito;gramos;6000;5;1500
+4;Papas;gramos;2500;30;5000
+5;Detergente;Kilogramos;2000;11;3000
+6;Papabomba;Libras;5000;3;6000

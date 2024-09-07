@@ -1,0 +1,10 @@
+Usuario1 12345 1
+Usuario2 12345 2
+Usuario3 12345 1
+Usuario4 125478 2
+JuanTorres 1234 1
+pruebas 12345 1
+Michael 12345 1
+michel 12345 2
+yo 1 1
+pruebas 1234 1

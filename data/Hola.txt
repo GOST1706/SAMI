@@ -1,0 +1,3 @@
+1;2022-11-26;Juan Torres;Doritos,Choclitos,Hamburguesa;22,33,44;2000,3000,4000
+2;2022-11-26;Michell Salazar;Doritos,Choclitos,;3,0,0;2000,3000,0
+3;2022-11-26;Roney Suarez;Doritos,,;4,0,0;3000,0,0
